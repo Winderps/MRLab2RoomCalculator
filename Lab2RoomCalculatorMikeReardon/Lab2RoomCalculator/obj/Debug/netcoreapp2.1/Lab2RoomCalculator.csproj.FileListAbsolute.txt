@@ -1,0 +1,11 @@
+C:\Users\Winderps\source\repos\GrandCircus\Lab2RoomCalculator\Lab2RoomCalculator\bin\Debug\netcoreapp2.1\Lab2RoomCalculator.deps.json
+C:\Users\Winderps\source\repos\GrandCircus\Lab2RoomCalculator\Lab2RoomCalculator\bin\Debug\netcoreapp2.1\Lab2RoomCalculator.runtimeconfig.json
+C:\Users\Winderps\source\repos\GrandCircus\Lab2RoomCalculator\Lab2RoomCalculator\bin\Debug\netcoreapp2.1\Lab2RoomCalculator.runtimeconfig.dev.json
+C:\Users\Winderps\source\repos\GrandCircus\Lab2RoomCalculator\Lab2RoomCalculator\bin\Debug\netcoreapp2.1\Lab2RoomCalculator.dll
+C:\Users\Winderps\source\repos\GrandCircus\Lab2RoomCalculator\Lab2RoomCalculator\bin\Debug\netcoreapp2.1\Lab2RoomCalculator.pdb
+C:\Users\Winderps\source\repos\GrandCircus\Lab2RoomCalculator\Lab2RoomCalculator\obj\Debug\netcoreapp2.1\Lab2RoomCalculator.csprojAssemblyReference.cache
+C:\Users\Winderps\source\repos\GrandCircus\Lab2RoomCalculator\Lab2RoomCalculator\obj\Debug\netcoreapp2.1\Lab2RoomCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Winderps\source\repos\GrandCircus\Lab2RoomCalculator\Lab2RoomCalculator\obj\Debug\netcoreapp2.1\Lab2RoomCalculator.AssemblyInfoInputs.cache
+C:\Users\Winderps\source\repos\GrandCircus\Lab2RoomCalculator\Lab2RoomCalculator\obj\Debug\netcoreapp2.1\Lab2RoomCalculator.AssemblyInfo.cs
+C:\Users\Winderps\source\repos\GrandCircus\Lab2RoomCalculator\Lab2RoomCalculator\obj\Debug\netcoreapp2.1\Lab2RoomCalculator.dll
+C:\Users\Winderps\source\repos\GrandCircus\Lab2RoomCalculator\Lab2RoomCalculator\obj\Debug\netcoreapp2.1\Lab2RoomCalculator.pdb
